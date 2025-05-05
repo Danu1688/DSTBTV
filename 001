@@ -5,16 +5,16 @@
 ########################################################################
 
 #EXTINF:-1 type="playlist",MyTk
-https://raw.githubusercontent.com/MayToko/Adult/refs/heads/main/live
+https://raw.githubusercontent.com/MayToko/Adult/main/live
 
 #EXTINF:-1 type="playlist",JJ
-https://raw.githubusercontent.com/hendroagung2904/JejeVISION/refs/heads/main/JejeVISION.m3u
+https://raw.githubusercontent.com/hendroagung2904/JejeVISION/main/JejeVISION.m3u
 
 #EXTINF:-1 type="playlist",MMPP
-https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
 
 #EXTINF:-1 type="playlist",AFDGI
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/donasi
+https://raw.githubusercontent.com/AFDigitalTV/Channel/main/donasi
 
 
 ########################################################    RCTI+   ########################################################

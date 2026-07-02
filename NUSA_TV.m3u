@@ -115,6 +115,21 @@ https://raw.githubusercontent.com/zokerpunk/iptv2/main/digital.m3u
 #EXTINF:-1 type="playlist",abidinrj
 https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
+#EXTINF:-1 type="playlist",dhanytv-ott
+https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
+
+#EXTINF:-1 type="playlist",dhanytv
+https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
+
+#EXTINF:-1 type="playlist",epg.xml
+https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
+
+#EXTINF:-1 type="playlist",windozalmi
+https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/simpan%20channel%20unik
+
+#EXTINF:-1 type="playlist",rosdiyanto
+https://raw.githubusercontent.com/rosdiyanto/iptv/refs/heads/main/Play.m3u
+
 ########################################################################
 
 
@@ -4428,8 +4443,6 @@ https://ca.streamjo.com/live/samugam.m3u8
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="ShareExt@TAMIL_television",Tamil Vision TV
 https://live.tamilvision.tv/TVI/HD/playlist.m3u8
-
-
 
 
 

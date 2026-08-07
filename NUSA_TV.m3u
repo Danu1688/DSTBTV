@@ -143,7 +143,7 @@ https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Akti
 #https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
 
 #EXTINF:-1 type="playlist",rctiplus
-#https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
+https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
 
 #EXTINF:-1 type="playlist",IndihomeTV
 https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
